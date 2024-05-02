@@ -1,4 +1,4 @@
-### Hi there, Nice to Meet you. I'm Hwang Kyeong Ha and studying Data Science. 👋
+### Hi there, Nice to Meet you 👋. I'm Hwang Kyeong Ha and studying Data Science. 
 
 
 - 🔭 I'm currently majoring in data science.
