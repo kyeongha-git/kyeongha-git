@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, This is Hwang Kyeong Ha and studying Data Science.</h1>
-<h3 align="center">This is a page where I write down my experiences while attending school and doing external activities.</h3>
+<h1 align="left">Hi there 👋, This is Hwang Kyeong Ha and studying Data Science.</h1>
+<h3 align="left">This is a page where I write down my experiences while attending school and doing external activities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyeongha-git&label=Profile%20views&color=0e75b6&style=flat" alt="kyeongha-git" /> </p>
 
