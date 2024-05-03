@@ -25,6 +25,16 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
+### 🛠 Tools 
+  
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 🎖️ Ranking
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=haseong8012)](https://solved.ac/haseong8012)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/gyeongha_0109?igsh=mw52oxhldmlra2nhda==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gyeongha_0109?igsh=mw52oxhldmlra2nhda==" height="30" width="40" /></a>
