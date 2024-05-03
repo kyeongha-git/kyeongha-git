@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyeongha-git&label=Profile%20views&color=0e75b6&style=flat" alt="kyeongha-git" /> </p>
 
-- 🔭 I'm currently majoring in **Data Science.**
-
-- 🌱 I’m currently learning **Data analysis, Data Visualization, and Computer Vision.**
+- 🌱 My major is **Data Science.**
+- 📖 I’m currently learning **Data analysis.**
+- 📖 I’m currently learning **Data Visualization.**
+- 📖 I’m currently learning **Computer Vision.**
 
 - 💬 Ask me about **react.**
 
