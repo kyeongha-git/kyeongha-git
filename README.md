@@ -38,10 +38,10 @@
 <p align="left"> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 ### 🤝 Activities
-- 2024.03 ~ 2024.12 수원대학교 학부 연구생 인턴
-- 2024.03 ~ 2024.12 학술동아리 DNA 회원
-- 2024.05 ~ 2024.12 수원대학교 대표 - KT디지털인재장학생
-- 2024.07 ~ 2024.11 취업동아리 DNA Career 대표
+- 2024.03 ~ 2024.12 Undergraduate Research Intern, University of Suwon
+- 2024.03 ~ 2024.12 Member, Academic Club "DNA"
+- 2024.05 ~ 2024.12 University of Suwon Representative - KT Digital Talent Scholarship Recipient
+- 2024.07 ~ 2024.11 President, Career Club "DNA Career"
 
 ### 🏆 Awards 🏆 
 - 2023 교내 학술제 대상
