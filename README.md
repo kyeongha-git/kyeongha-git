@@ -59,6 +59,13 @@
 
 <br>
 
+## 🚀Project
+
+| Period                  | Title                                                                                                                                             | Description                                                                                | Experience                   | Tech Stack                                                                                    |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------- | --------------------------------------------------------------------------------------------- |
+| 2024.03.12 ~ 2024.07.20 |  [학부연구생] Repo 추가 예정   | 딥러닝을 이용한 소자 부식도 예측 프로그램 개발   | 팀장  | Python, Pytorch, Tensorflow, Keras, Pandas, Matplotlib |
+| 2024.05.10 <br>~ <br> 2024.09.02 (지속적으로 리팩토링 중) | [스스Law](https://github.com/HanIum2024-AILawyer/SSL-Server) | 법률 문제를 스스로 해결할 수 있도록 도움을 제공하는 법률 상담 챗봇 서비스 | BE 팀장<br>개발 동아리 Semicolon  | Java17, SpringBoot3.0, Spring Data JPA, Spring Security, OAuth 2.0 <br>Web Socket, Redis, MySQL, <br>AWS(EC2, RDS, ELB, DNS, IAM) |
+| 2024.01.5 <br>~ <br>2023.02.10 | [방학 프로젝트 - 쇼핑몰](https://github.com/Vacation-project/Server?tab=readme-ov-file) | 협업 경험을 위한 첫프로젝트 시작, 옷 쇼핑몰 | 팀장 역할로 인원 모집, 팀프로젝트 | Java, SpringBoot3.0, Spring Data JPA, Spring Security, MySQL                                                                         |
 
 <img src="https://github.com/kyeongha-git/kyeongha-git/blob/output/github-snake-dark.svg" width="100%">
 
