@@ -47,7 +47,9 @@
     <a href="https://www.instagram.com/kyeongha_0109">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={kyeongha-blog}&postId={default}&theme={santorini})](https://kyeongha-blog.tistory.com/)
+    <a href="https://kyeongha-blog.tistory.com">
+        <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=kyeongha-blog&postId=default&theme=santorini" alt="Tistory Badge">
+    </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
