@@ -44,11 +44,11 @@
 - 2024.07 ~ 2024.11 President, Career Club "DNA Career"
 
 ### 🏆 Awards 🏆 
-- 2023 교내 학술제 대상
-- 2024 교내 AI경진대회 대상
-- 2024 교내 취업동아리 대상
-- 2024 동아리 우수회원 대상
-- 2024 취업포트폴리오공모전 대상
+- 2023 First Place, University Academic Festival
+- 2024 First Place, University AI Competition
+- 2024 First Place, University Career Club Competition
+- 2024 Outstanding Member Award, Club Activities
+- 2024 First Place, Career Portfolio Contest
 
 ### 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
