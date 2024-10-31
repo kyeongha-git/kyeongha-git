@@ -36,6 +36,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/kyeongha_0109/?igsh=MW52OXhldmlra2NhdA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gyeongha_0109?igsh=mw52oxhldmlra2nhda==" height="30" width="40" /></a>
+<img src="https://img.shields.io/badge/Tistory-ff69b4?style=plastic&logo=Tistory&logoColor=white"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
