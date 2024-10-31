@@ -18,11 +18,7 @@
 
 <br>
 
-## 📚 Tech Stack
-### 📋 Languages
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-
+## ✨ Tech Stack
 ### 📚 Frameworks, Platforms and Libraries
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;
@@ -41,18 +37,18 @@
 <br>
 <p align="left"> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+### 🤝 Activities
+- 2024.03 ~ 2024.12 수원대학교 학부 연구생 인턴
+- 2024.03 ~ 2024.12 학술동아리 DNA 회원
+- 2024.05 ~ 2024.12 수원대학교 대표 - KT디지털인재장학생
+- 2024.07 ~ 2024.11 취업동아리 DNA Career 대표
+
 ### 🏆 Awards 🏆 
 - 2023 교내 학술제 대상
 - 2024 교내 AI경진대회 대상
 - 2024 교내 취업동아리 대상
 - 2024 동아리 우수회원 대상
 - 2024 취업포트폴리오공모전 대상
-
-## 📚 Tech Stack
-- 2024.03 ~ 2024.12 교내 학부 연구생
-- 2024.03 ~ 2024.12 학술동아리 DNA 회원
-- 2024.05 ~ 2024.12 수원대학교 대표 - KT디지털인재장학생
-- 2024.07 ~ 2024.11 취업동아리 DNA Career 대표
 
 ### 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
