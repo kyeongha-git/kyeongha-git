@@ -75,7 +75,7 @@
 | 2023.06.08 ~ 2024.07.28 |  [교내 학술제] Repo 추가 예정   | 이미지 속 글자 OCR & 3문장 요약 프로그램 개발   | 팀장  | Python (Tensorflow, Matplotlib, Tesseract) | 대상
 | 2024.03.12 ~ 2024.07.20 |  [학부연구생] Repo 추가 예정   | 딥러닝을 이용한 소자 부식도 예측 프로그램 개발   | 팀장  | Python (Pytorch, Tensorflow, Keras, Pandas, Matplotlib) | 논문 투고
 | 2024.07.28 ~ 2024.11.30 | 취업동아리(DNA Career) | 데이터과학 직무 분석 & 취업 역량 강화 동아리 | 대표  | Notion (Communication & Information Share) | 대상
-| 2024.06.28 ~ 2024.07.28 | [교내 AI 경진대회] Repo 추가 예정 | 이미지 고해상도 복원 웹사이트 만들기 | 팀장 | Python (Tensorflow, Keras, Streamlist, Excel) | 대상
+| 2024.06.28 ~ 2024.07.28 | [교내 AI 경진대회] Repo 추가 예정 | 이미지 고해상도 복원 웹사이트 만들기 | 팀장 | Python (Tensorflow, Keras, Streamlist, Flask, Excel) | 대상
 | 2024.07.25 ~ 2024.10.25 | [학부연구생] Repo 추가 예정 | YOLO 모델을 이용한 데이터셋 신뢰도 구축 & 신뢰도 향상 & 과적합 방지 프로그램 개발 | 팀장 | Python (Keras, Pytorch, Roboflow, Duplicate Cleaner) | 논문 투고
 
 <img src="https://github.com/kyeongha-git/kyeongha-git/blob/output/github-snake-dark.svg" width="100%">
