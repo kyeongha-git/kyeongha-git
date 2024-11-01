@@ -29,7 +29,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-### 💻 Language & Tools 💻 
+### 💻 Language & Tools
   
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
@@ -43,14 +43,14 @@
 - 2024.05 ~ 2024.12 University of Suwon Representative - **KT Digital Talent Scholarship Recipient**
 - 2024.07 ~ 2024.11 **President**, University of Suwon Career Club "DNA Career"
 
-### 🏆 Awards 🏆 
+### 🏆 Awards 
 - 2023 **First Place**, University of Suwon Academic Festival
 - 2024 **First Place**, University of Suwon AI Competition
 - 2024 **First Place**, University of Suwon Career Club Competition
 - 2024 **Outstanding Member Award**, Academic Club "DNA" at the Department of Data Science
 - 2024 **First Place**, University of Suwon Career Portfolio Contest
 
-### 📞 Contact 📞
+### 📞 Contact
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:h01073658184@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
