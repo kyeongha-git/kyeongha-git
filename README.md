@@ -39,7 +39,7 @@
 
 ### 🤝 Activities
 - 2024.03 ~ 2024.12 **Undergraduate Research Intern**, University of Suwon
-- 2024.03 ~ 2024.12 Member, Academic Club "DNA" at the Department of Data Science, University of Suwon
+- 2024.03 ~ 2024.12 Member, Academic Club DNA at the Department of Data Science, University of Suwon
 - 2024.05 ~ 2024.12 University of Suwon Representative - **KT Digital Talent Scholarship Recipient**
 - 2024.07 ~ 2024.11 **President**, University of Suwon Career Club "DNA Career"
 
