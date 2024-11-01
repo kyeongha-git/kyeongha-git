@@ -3,7 +3,7 @@
   
 <div align="left">
 
-<h1 align="left">I write down my experiences while attending school and doing external activities.</h1>
+<h1 align="left">I write down my experiences while attending University of Suwon in Korea and doing external activities.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyeongha-git&label=Profile%20views&color=0e75b6&style=flat" alt="kyeongha-git" /> </p>
 
