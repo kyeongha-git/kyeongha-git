@@ -47,7 +47,7 @@
 - 2023 **First Place**, University of Suwon Academic Festival
 - 2024 **First Place**, University of Suwon AI Competition
 - 2024 **First Place**, University of Suwon Career Club Competition
-- 2024 **Outstanding Member Award**, Academic Club "DNA" at the Department of Data Science
+- 2024 **Outstanding Member Award**, Academic Club DNA(Data Science & AI) at the Department of Data Science
 - 2024 **First Place**, University of Suwon Career Portfolio Contest
 
 ### 📞 Contact
