@@ -12,7 +12,7 @@
 - 📖 I’m currently learning **Data Visualization.**
 - 📖 I’m currently learning **Computer Vision.**
 
-- 💬 Ask me about **react.**
+- 💬 Ask me about **react.**  
 
 - 📫 How to reach me **h01073658184@gmail.com**
 
