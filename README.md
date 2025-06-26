@@ -44,12 +44,15 @@
 - 2024.07 ~ present **President**, University of Suwon Career Club DNA Career
 
 ### 🏆 Awards 
-- 2023 **First Place**, University of Suwon Academic Festival
-- 2024 **First Place**, University of Suwon AI Competition
-- 2024 **Second Place**, University of Suwon Career Club Competition
-- 2024 **Outstanding Member Award**, Academic Club DNA(Data Science & AI) at the Department of Data Science
-- 2024 **First Place**, University of Suwon, Career Portfolio Contest
-- 2024 **Second Place**, University of Suwon and Hwaseong City Research Data Center, AI & Big Data Analysis Competition
+- **Grand Prize**, 2nd Hwaseong City Urban Data Research Competition (2025)
+- **Second Place**, AI & Big Data Analysis Competition, University of Suwon & Hwaseong City Research Data Center (2024)
+- **MVP Award**, Career Club Competition, University of Suwon (Individual Category) (2024)
+- **Grand Prize**, Career Portfolio Contest, University of Suwon (2024)
+- **Second Place**, Career Club Competition, University of Suwon (Team Career) (2024)
+- **MVP Award**, Academic Club DNA (Data Science & AI), Department of Data Science (2024)
+- **Grand Prize**, AI Competition, Academic Club DNA (Data Science & AI), Department of Data Science (2024)
+- **Grand Prize**, University of Suwon Data Science Academic Festival (2023)
+
 
 ### 📞 Contact
 <div style="display:flex; flex-direction:row;">
@@ -78,6 +81,7 @@
 | 2024.07.28 ~ 2024.11.30 | 취업동아리(DNA Career) | 데이터과학 직무 분석 & 취업 역량 강화 동아리 | 대표  | Notion (Communication & Information Share) | 대상
 | 2024.06.28 ~ 2024.07.28 | [교내 AI 경진대회](https://github.com/kyeongha-git/Super_Resolution_with_Various_Models) | 딥러닝 성능 향상을 위한 이미지 해상도 복원 기반 데이터셋 재구축 프로그램 개발 | 총괄 팀장 | Python (Tensorflow, Keras, Streamlist, Flask, Excel) | 대상
 | 2024.07.25 ~ 2024.10.25 | [학부연구생] Repo 추가 예정 | YOLO 모델을 이용한 데이터셋 신뢰도 구축으로 신뢰도 향상 & 과적합 방지 방법론 제시 | 연구원 (개인 프로젝트) | Python (Keras, Pytorch, Roboflow, Duplicate Cleaner) | 한국정보과학회 논문 투고, 수원대학교 & 화성시 데이터 연구 센터 AI 빅데이터분석 경진대회 우수상
+| 2025.03.10 ~ 2025.06.18 |  [제 2회 화성시 도시데이터 연구공모전]() | QGIS와 데이터 분석을 통한 화재 취약지역 식별 및 대응 방안 연구 | 총괄 팀장  | Python, QGIS | 대상
 
 <img src="https://github.com/kyeongha-git/kyeongha-git/blob/output/github-snake-dark.svg" width="100%">
 
