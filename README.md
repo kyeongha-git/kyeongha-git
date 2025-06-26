@@ -81,7 +81,7 @@
 | 2024.07.28 ~ 2024.11.30 | 취업동아리(DNA Career) | 데이터과학 직무 분석 & 취업 역량 강화 동아리 | 대표  | Notion (Communication & Information Share) | 대상
 | 2024.06.28 ~ 2024.07.28 | [교내 AI 경진대회](https://github.com/kyeongha-git/Super_Resolution_with_Various_Models) | 딥러닝 성능 향상을 위한 이미지 해상도 복원 기반 데이터셋 재구축 프로그램 개발 | 총괄 팀장 | Python (Tensorflow, Keras, Streamlist, Flask, Excel) | 대상
 | 2024.07.25 ~ 2024.10.25 | [학부연구생] Repo 추가 예정 | YOLO 모델을 이용한 데이터셋 신뢰도 구축으로 신뢰도 향상 & 과적합 방지 방법론 제시 | 연구원 (개인 프로젝트) | Python (Keras, Pytorch, Roboflow, Duplicate Cleaner) | 한국정보과학회 논문 투고, 수원대학교 & 화성시 데이터 연구 센터 AI 빅데이터분석 경진대회 우수상
-| 2024.09.10 ~ 2024.12.15 |  [ACWFace](https://github.com/Face_Detection-ACWFace) | ACWFace Develop | - | Python (Pytorch) | 학부 수업 A+
+| 2024.09.10 ~ 2024.12.15 |  [ACWFace](https://github.com/kyeongha-git/Face_Detection-ACWFace) | ACWFace Develop | - | Python (Pytorch) | 학부 수업 A+
 | 2025.03.10 ~ 2025.06.18 |  [제 2회 화성시 도시데이터 연구공모전](https://github.com/kyeongha-git/Fire-Risk-Qgis-Hwaseong2025) | QGIS와 데이터 분석을 통한 화재 취약지역 식별 및 대응 방안 연구 | 총괄 팀장  | Python, QGIS | 대상
 | 2025.03.10 ~ Present |  [LLM 논문 스터디](https://github.com/kyeongha-git/Study) | LLM 논문 스터디 & 코드 구현 | - | Python (Pytorch) | 스터디
 
