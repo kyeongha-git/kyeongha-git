@@ -9,8 +9,8 @@
  
 - 🌱 My major is **Data Science.**
 - 📖 I’m currently learning **Data analysis.**
-- 📖 I’m currently learning **Data Visualization.**
-- 📖 I’m currently learning **Computer Vision.**
+- 📖 I’m currently learning **Artificial Intelligence**
+- 📖 I’m currently learning **Multi-Modal (Particularly, VLM)**
 
 - 💬 Ask me about **react.**  
 
@@ -39,7 +39,7 @@
 
 ### 🤝 Activities
 - 2024.07 ~ 2024.12   President, University of Suwon Career Club DNA Career
-- 2024.05 ~ present   KT Digital Talent Scholarship Recipient, representing the University of Suwon
+- 2024.05 ~ 2025.08   KT Digital Talent Scholarship Recipient, representing the University of Suwon
 - 2024.03 ~ 2025.02   Member, Academic Club DNA (Data Science & AI), Department of Data Science, University of Suwon
 - 2024.03 ~ present   Undergraduate Research Intern, University of Suwon
 
