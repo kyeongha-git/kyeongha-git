@@ -7,6 +7,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kyeongha-git&label=Profile%20views&color=0e75b6&style=flat" alt="kyeongha-git" />
   &nbsp;
+  <a href="https://docs.google.com/document/d/1iO42ULPCu9p-MDIS2GJdhWtu2Cgg6ZK7MaUa9sNyPwM/edit?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View_Document-4285F4?style=flat&logo=google-docs&logoColor=white" alt="Resume">
+  </a>
+  &nbsp;
   <a href="https://docs.google.com/presentation/d/1utQpTvGSaWqHus_07NuD1LMaPavZjKE9jPatBRwRWE8/edit?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View_Presentation-F4B400?style=flat&logo=google-slides&logoColor=white" alt="Portfolio">
   </a>
