@@ -12,7 +12,7 @@
   </a>
   &nbsp;
   <a href="https://kyeongha-git.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Web-000000?style=flat&logo=google-slides&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=flat&logo=google-slides&logoColor=white" alt="Portfolio">
   </a>
   &nbsp;
   <a href="https://kyeongha-blog.tistory.com/" target="_blank">
