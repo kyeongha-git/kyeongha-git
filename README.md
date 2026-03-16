@@ -74,7 +74,7 @@
 
 | Period | Title | Description | Role | Stack | Result |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2024.07 ~ 2026.02    | Crop for Trust: 생성형AI 기반 신뢰성 강화 및 편향 제거 프레임워크   |   생성형 AI(Gemini 2.5 Flash)와 YOLO 모델을 이용한 편향 제거 프레임워크 개발 및 다양한 방법론 검증    | 연구생 (개인)    | Python, Pytorch, Docker, Hugging Face, Roboflow, Gemini API    | • IJMLC 저널 투고 (SCIE, Under Review)<br>• **2024 KSC 논문 게재**<br>• 교내외 AI 공모전 2회 수상 |   
+| 2024.07 ~ 2026.02    | [Crop for Trust: 생성형AI 기반 신뢰성 강화 및 편향 제거 프레임워크](https://github.com/kyeongha-git/Crop-for-Trust)   |   생성형 AI(Gemini 2.5 Flash)와 YOLO 모델을 이용한 편향 제거 프레임워크 개발 및 다양한 방법론 검증    | 연구생 (개인)    | Python, Pytorch, Docker, Hugging Face, Roboflow, Gemini API    | • IJMLC 저널 투고 (SCIE, Under Review)<br>• **2024 KSC 논문 게재**<br>• 교내외 AI 공모전 2회 수상 |   
 | 2025.03 ~ 2026.01    | **[논문 스터디](https://github.com/kyeongha-git/Study)**    | 논문 스터디 & 코드 구현 (CNN ➞ LLM ➞ Self-Supervised Learning ➞ VLM)    | 개인    | Python (Pytorch)    | • 주요 모델 구조 직접 구현<br>• 최신 논문 트렌드 분석 |
 | 2025.03 ~ 2025.06 | **[화성시 도시데이터 연구공모전](https://github.com/kyeongha-git/Fire-Risk-Qgis-Hwaseong2025)**    | QGIS와 데이터 분석을 통한 화재 취약지역 식별 및 대응 방안 연구    | 팀장    | Python, QGIS, Streamlit    | • **화성시 공모전 대상 수상**<br>• 코엑스 발표 및 교내 행사 발표 |
 | 2024.09 ~ 2024.12 | **[RetinaFace 최적화 연구](https://github.com/kyeongha-git/Face_Detection-ACWFace)**    | RetinaFace 논문 구현 및 Custom Layer (WFPN/ECA-CBAM/SCM/Deformable Conv) 설계를 통한 정보 흐름 최적화 및 Inference 성능 개선    | 팀원 (파이프라인 설계 및 Custom Layer 구현)| Python (Pytorch) | • RetinaFace 대비 Hard Case 정확도 2.7% 상승<br>• A+ 학점 취득 |
