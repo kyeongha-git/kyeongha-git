@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Resume-View_Document-4285F4?style=flat&logo=google-docs&logoColor=white" alt="Resume">
   </a>
   &nbsp;
-  <a href="https://docs.google.com/presentation/d/1utQpTvGSaWqHus_07NuD1LMaPavZjKE9jPatBRwRWE8/edit?usp=sharing" target="_blank">
+  <a href="https://kyeongha-git.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View_Presentation-F4B400?style=flat&logo=google-slides&logoColor=white" alt="Portfolio">
   </a>
   &nbsp;
