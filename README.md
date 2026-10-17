@@ -38,7 +38,7 @@
 ---
 
 # Activities
-- 2026.05 ~ Present   **(주) Secudaim R&D AI Developer 사원**
+- 2026.05 ~ Present   **(주) Secudaim R&D AI Developer 프로**
 - 2024.03 ~ 2026.02   수원대학교 데이터과학부 학부연구생 인턴
 - 2024.05 ~ 2025.08   KT디지털인재 장학생
 - 2024.03 ~ 2025.02   수원대학교 데이터과학부 학술동아리 DNA(Data Science & AI) 부원
